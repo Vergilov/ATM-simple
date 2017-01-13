@@ -1,0 +1,5 @@
+run:
+U¿ytkownik: Maciek
+Has³o: Krawat
+Zalogowano
+BUILD SUCCESSFUL (total time: 6 seconds)
